@@ -21,7 +21,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
-### ***Контакты:***
+### ***Связаться со мной:***
 ### 📧 Почта: serg.korotkov.91@gmail.com
 ### 🌐 Telegram: [@kanc1er](https://t.me/kanc1er)
 
